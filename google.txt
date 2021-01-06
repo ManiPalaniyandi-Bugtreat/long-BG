@@ -1,0 +1,16 @@
+add some files to delete
+
+
+git config --global core.editor "'C:\Program Files (x86)\Microsoft VS Code\code.exe' -w"
+
+
+git config --global core.editor "'C:\Program Files\Microsoft VS Code\code.exe' -n -w"
+
+
+git config --global core.editor "code --wait"
+
+
+git config --global core.editor "code --wait"
+
+
+C:\Users\Admin\AppData\Local\Programs\Microsoft VS Code
